@@ -1,0 +1,21 @@
+body {
+  background-color: #204345;
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-top: 30px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 10px;
+}
+
+ul {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
